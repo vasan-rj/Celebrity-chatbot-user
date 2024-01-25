@@ -13,4 +13,17 @@ Welcome to CelebChatBot, an innovative open-source project that brings the magic
 
 ## getting Started
   1) Clone the Repository:
-  " git clone https://github.com/your-username/CelebChatBot.git "
+    " git clone https://github.com/your-username/CelebChatBot.git "
+
+  3) Create and activate virtual Enviroinment:
+     run in terminal: " python -m virtualenv myenv "
+     run in terminal: "  myenv\Scripts\activate   "
+
+  4) Install dependencies:
+      run in terminal: " pip install -r requirements.txt  "
+
+  5) Add your Google gemini Api key to env file:
+      Get your api key in [GitHub Pages](https://pages.github.com/)
+
+       
+     
