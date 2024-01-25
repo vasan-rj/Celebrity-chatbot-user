@@ -10,20 +10,26 @@ Welcome to CelebChatBot, an innovative open-source project that brings the magic
 1. Google Gemini Pro Model API Integration
 2. Diverse Celebrity Personalities
 3. Dynamic Responses
-
+## --------------------------------------------------------------------
 ## getting Started
   1) Clone the Repository:
     " git clone https://github.com/your-username/CelebChatBot.git "
-
+## --------------------------------------------------------------------
   3) Create and activate virtual Enviroinment:
      run in terminal: " python -m virtualenv myenv "
      run in terminal: "  myenv\Scripts\activate   "
-
+## --------------------------------------------------------------------
   4) Install dependencies:
       run in terminal: " pip install -r requirements.txt  "
-
+## --------------------------------------------------------------------
   5) Add your Google gemini Api key to env file:
-      Get your api key in [GitHub Pages](https://pages.github.com/)
+      Get your api key in [Google gemini Api ](https://makersuite.google.com/app/apikey)
+      add your api key to the env file
+## --------------------------------------------------------------------
+  6) Run code with the command:
+       run in terminal: "  python -m streamlit run app.py  "
+
+     
 
        
      
