@@ -12,5 +12,5 @@ Welcome to CelebChatBot, an innovative open-source project that brings the magic
 3. Dynamic Responses
 
 ## getting Started
-  Clone the Repository:
-  git clone https://github.com/your-username/CelebChatBot.git
+  1) Clone the Repository:
+  " git clone https://github.com/your-username/CelebChatBot.git "
