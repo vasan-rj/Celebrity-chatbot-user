@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="[https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png](https://wgmimedia.com/wp-content/uploads/2023/05/How-to-Make-AI-Images-of-Celebrities.jpg)">
-  <img alt="profile img">
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png](https://wgmimedia.com/wp-content/uploads/2023/05/How-to-Make-AI-Images-of-Celebrities.jpg">
+ 
 </picture>
 
 # CelebChatBot: AI-Powered Celebrity Chatbot using Google Gemini Pro Model API and Streamlit
